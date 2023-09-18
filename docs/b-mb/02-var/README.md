@@ -67,7 +67,7 @@ while True:
 ```
 
 <div style="background-color:darkgreen; text-align:left; vertical-align:left; padding:15px;">
-<p style="color:lightgreen; margin:10px">Experimenteer: Zet eens de variabele wacht_tijd op waarde 0. Wat gebeurt er?</br>
+<p style="color:lightgreen; margin:10px">Experimenteer: Zet eens de variabele wacht_tijd op waarde 0. Wat gebeurt er?<br>
 Laat de “sleep“ eens weg. Wat gebeurt er?
 </p>
 </div>

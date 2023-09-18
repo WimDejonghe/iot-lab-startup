@@ -6,7 +6,7 @@ Binnen de oneindige WHILE-loop kan er steeds nagegaan worden of een drukknop is 
 
 Binnen de MicroPython van de Micro:Bit kan gebruik gemaakt worden van:
 
-**WAS_pressed**: statements worden slechts één keer uitgevoerd (ook bij blijvend drukken).</br>
+**WAS_pressed**: statements worden slechts één keer uitgevoerd (ook bij blijvend drukken).<br>
 **IS_pressed**: statements worden meerdere keren uitgevoerd bij blijvend drukken.
 
 ![example image](./images/if.png "Het IF statement met een conditie")
