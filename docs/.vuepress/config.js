@@ -16,8 +16,8 @@ module.exports = {
     //logo: '/images/linux.png',
     navbar: [
       { text: 'Toledo', link: 'https://toledo.kuleuven.be/portal' },
-      { text: 'Report Issue', link: 'https://github.com/BioBoost/course_linux_essentials/issues' },
-      { text: 'Organization', link: 'https://github.com/vives-linux-essentials-2022-2023' }
+      { text: 'Report Issue', link: 'https://github.com/WimDejonghe/iot-lab-startup/issues' }
+     
     ],
     sidebar: [
       {
@@ -25,17 +25,19 @@ module.exports = {
         link: '/about-this-course/README.md',
       },
       {
-        text: 'Introduction to Programming',
+        text: 'Introduction to Micro:Bit',
         children: [
           '/a-introductory/01-introduction/README.md',
           '/a-introductory/02-introduction/README.md',
+          '/a-introductory/03-introduction/README.md',
+          '/a-introductory/04-introduction/README.md',
           
         ]
       },
      
     ],
     sidebarDepth: 1,
-    repo: 'WimDejonghe/vuePress2-starter',
+    repo: 'WimDejonghe/iot-lab-startup',
     docsDir: 'docs',
     docsBranch: 'master'
   }),
